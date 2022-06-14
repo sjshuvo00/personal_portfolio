@@ -1,0 +1,96 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+    margin: 0%;
+}
+
+
+h1 {
+    font-size: 40px;
+}
+
+.spancolor {
+    color: orangered;
+}
+
+section {
+    display: flex;
+    padding-bottom: 90px;
+    padding-top: 70px;
+}
+
+.section3 {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+
+.banner {
+    background-image: url(images/banner.svg);
+    background-repeat: no-repeat;
+
+}
+
+.banner2 {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.half {
+    width: 50%;
+    padding-left: 10%;
+}
+
+.newhalf {
+    padding-right: 10%;
+}
+
+.image {
+    border: 0px solid #ddd;
+    border-radius: 10%;
+    width: 70%;
+    padding-top: 30px;
+}
+
+.newimage {
+    width: 80%;
+}
+
+.button {
+    text-decoration: none;
+    padding: 10px 30px;
+    border-radius: 5px;
+    background-image: linear-gradient(red, orange);
+    font-weight: 800;
+    color: beige;
+}
+
+.orange-color {
+    color: orange;
+}
+
+.box {
+    box-shadow: 10px 10px 40px grey;
+    width: 100%;
+    padding-left: 5%;
+    border-radius: 5%;
+    border-right: 10px solid salmon;
+
+}
+
+.newbox {
+    padding-right: 0%;
+    width: 100%;
+}
+
+.experience {
+    padding-left: 10%;
+}
+
+footer p {
+    text-align: center;
+}
